@@ -9,9 +9,9 @@
   "success_url": "https://t.me/youtubdlbot",
   "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_API_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+        "API_ID": {"description": "13731322", "required": true},
+        "API_HASH": {"description": "f0de3bb45dc1d21fb3ee7bea34bd4cc6" , "required": true},
+        "BOT_API_TOKEN": {"description": "5275565802:AAFPxhNZ6i06k3JRg4AdoqMiBSAIj9zPdqI","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
